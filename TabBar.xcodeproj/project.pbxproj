@@ -78,8 +78,8 @@
 		B1FF668D2DA295AC0096AEAB /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				B1FF668B2DA295690096AEAB /* ProfileViewController.swift */,
 				B1FF66752DA26E830096AEAB /* HomeViewController.swift */,
+				B1FF668B2DA295690096AEAB /* ProfileViewController.swift */,
 				B1FF66872DA28FF40096AEAB /* MessagesViewController.swift */,
 				B1FF66892DA294710096AEAB /* NewsViewController.swift */,
 				B1FF668E2DA2988A0096AEAB /* SettingsViewController.swift */,
